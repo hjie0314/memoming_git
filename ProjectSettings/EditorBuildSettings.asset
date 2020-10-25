@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene_factor/0.Start/0.FirstScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scene_factor/1.Sectors/1.Sectors.unity
+    guid: eeee8d981e8b7644d9db99466625548d
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-1/2-1.Convenience.unity"
+    guid: e76f2f96bbde3d048a70381d85671b1d
+  - enabled: 1
+    path: "Assets/Scene_factor/3-1(\uCE74\uD398)/3-1/3-1.cafe.unity"
+    guid: 9921ab2e65125e745b84552b25d2c620
+  - enabled: 1
+    path: "Assets/Scene_factor/3-1(\uCE74\uD398)/3-2(\uCE74\uD398)/3-2.capital.unity"
+    guid: 18d9d1f87d20886468a76aee463924f0
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-2(\uC790\uBCF8\uAE08)/2-2.capital.unity"
+    guid: 518d97c3117bf4644aab5ca42a4331b4
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-4(\uC124\uBA85)/2-4.unity"
+    guid: a447d32b17871744d9fc97b7f690ec02
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-3(\uD3B8\uC758\uC810 \uADDC\uBAA8)/2-3.unity"
+    guid: 3b9aaa9cf41905e4a8c079839e9ab7e7
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-6(\uC124\uBA85)/2-6.unity"
+    guid: 21e200650128f7b408f1bd1cc12996a6
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-5(\uD3C9\uADE0\uCC3D\uC5C5\uBE44\uC6A9)/2-5.unity"
+    guid: ca9fdd3d30558af44a2475b530c091b6
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-9(\uC9C0\uC5ED \uC120\uD0DD)/2-9.unity"
+    guid: c994cd19a038ecb4f9154111f4cd5c3a
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-8(\uCE90\uB9AD\uD130\uB9D0\uD48D\uC120)/2-8.unity"
+    guid: 5dd10c60ab527504cae78b9e262906c5
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-7(\uB300\uCD9C \uC815\uCC45)/2-7.unity"
+    guid: 3423a4b66991af34399475bbdf6ca665
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-10(\uCE90\uB9AD\uD130 \uB9D0\uC500)/2-10.unity"
+    guid: f7fa03605601f464fbd8dc0381ddc8d1
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-11(\uD034\uC988-1)/2-11.unity"
+    guid: a4e3cbd6bbe80674f99e57ca4de84fba
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-7(\uB300\uCD9C \uC815\uCC45)/2-7-2/2-7-2.unity"
+    guid: 23277183a5070814ca642a2c67c2917c
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-7(\uB300\uCD9C \uC815\uCC45)/2-7-1/2-7-1.unity"
+    guid: 8a5710e65b70b3a42968b236f3da6ba3
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-7(\uB300\uCD9C \uC815\uCC45)/2-7-3/2-7-3.unity"
+    guid: a99bc17494dfea04fb5e0e8b22a9ed71
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-7(\uB300\uCD9C \uC815\uCC45)/2-7-4/2-7-4.unity"
+    guid: 67107bbeace13e14895b3e30577dc4b5
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-7(\uB300\uCD9C \uC815\uCC45)/2-7-5/2-7-5.unity"
+    guid: e789b057500e721449a7028ee8ef244a
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-15(\uCC3D\uC5C5\uB4F1\uAE09)/2-15.unity"
+    guid: 18cd5bb6e9d0420469b9b590f67aa8ed
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-14(\uBB38\uC81C \uB2E4 \uD488)/2-14.unity"
+    guid: a2d863d478e2ad64091fa81f2d4c29b7
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-13(\uD034\uC988-3)/2-13.unity"
+    guid: 7c41470acea9f994bb947d3b62b54b84
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-12(\uD034\uC988-2)/2-12.unity"
+    guid: 36aa140a3a0c76046bff6e5776450203
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-7(\uB300\uCD9C \uC815\uCC45)/2-7-1/2-7-1(2).unity"
+    guid: 58e719cf158b200459fc1df188100200
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-7(\uB300\uCD9C \uC815\uCC45)/2-7-2/2-7-2(2).unity"
+    guid: f6f240fd557a1db4684acd8bffcdbf46
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-11(\uD034\uC988-1)/New Scene.unity"
+    guid: 8814a7f7bb1388a4fa0f46265d087e59
+  m_configObjects: {}

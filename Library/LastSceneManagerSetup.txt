@@ -1,5 +1,5 @@
 sceneSetups:
-- path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-3(\uD3B8\uC758\uC810 \uADDC\uBAA8)/2-3.unity"
+- path: Assets/Scene_factor/0.Start/0.FirstScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

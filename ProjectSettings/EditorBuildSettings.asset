@@ -72,10 +72,10 @@ EditorBuildSettings:
     path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-14(\uBB38\uC81C \uB2E4 \uD488)/2-14.unity"
     guid: a2d863d478e2ad64091fa81f2d4c29b7
   - enabled: 1
-    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-13(\uD034\uC988-3)/2-13.unity"
+    path: 
     guid: 7c41470acea9f994bb947d3b62b54b84
   - enabled: 1
-    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-12(\uD034\uC988-2)/2-12.unity"
+    path: 
     guid: 36aa140a3a0c76046bff6e5776450203
   - enabled: 1
     path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-7(\uB300\uCD9C \uC815\uCC45)/2-7-1/2-7-1(2).unity"
@@ -84,6 +84,9 @@ EditorBuildSettings:
     path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-7(\uB300\uCD9C \uC815\uCC45)/2-7-2/2-7-2(2).unity"
     guid: f6f240fd557a1db4684acd8bffcdbf46
   - enabled: 1
-    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-11(\uD034\uC988-1)/New Scene.unity"
+    path: 
     guid: 8814a7f7bb1388a4fa0f46265d087e59
+  - enabled: 1
+    path: "Assets/Scene_factor/2-1(\uD3B8\uC758\uC810)/2-11(\uD034\uC988)/2-11.unity"
+    guid: 299c304e74ea829429b5a0f60d7699f1
   m_configObjects: {}

@@ -26,4 +26,8 @@ public class button_15 : MonoBehaviour
     {
         SceneManager.LoadScene("0.FirstScene");
     }
+    public void QUIZ()
+    {
+        SceneManager.LoadScene("2-10");
+    }
 }

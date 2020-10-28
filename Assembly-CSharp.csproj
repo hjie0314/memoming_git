@@ -85,11 +85,12 @@
      <Compile Include="Assets\Scene_factor\1.Sectors\button_0.cs" />
      <Compile Include="Assets\Scene_factor\2-1(편의점)\2-1\button_1.cs" />
      <Compile Include="Assets\Scene_factor\2-1(편의점)\2-10(캐릭터 말씀)\button_10.cs" />
-     <Compile Include="Assets\Scene_factor\2-1(편의점)\2-11(퀴즈-1)\Score_Script.cs" />
-     <Compile Include="Assets\Scene_factor\2-1(편의점)\2-11(퀴즈-1)\button_11.cs" />
+     <Compile Include="Assets\Scene_factor\2-1(편의점)\2-11(퀴즈)\Score_Script.cs" />
+     <Compile Include="Assets\Scene_factor\2-1(편의점)\2-11(퀴즈)\button_11.cs" />
      <Compile Include="Assets\Scene_factor\2-1(편의점)\2-14(문제 다 품)\button_14.cs" />
      <Compile Include="Assets\Scene_factor\2-1(편의점)\2-15(창업등급)\button_15.cs" />
      <Compile Include="Assets\Scene_factor\2-1(편의점)\2-2(자본금)\button_2.cs" />
+     <Compile Include="Assets\Scene_factor\2-1(편의점)\2-2(자본금)\moneysc.cs" />
      <Compile Include="Assets\Scene_factor\2-1(편의점)\2-3(편의점 규모)\button_3.cs" />
      <Compile Include="Assets\Scene_factor\2-1(편의점)\2-4(설명)\button_4.cs" />
      <Compile Include="Assets\Scene_factor\2-1(편의점)\2-5(평균창업비용)\button_5.cs" />

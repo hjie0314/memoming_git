@@ -15,3 +15,6 @@
 ## 팀 구성 인원
 팀명 :   슬기로운 창업 생활 
 지도교수 : 이 정  
+
+ * 기본 어플리케이션 틀 완성 ([하지혜 2020-11-12](https://github.com/hjie0314/memoming_git/tree/master/Desktop/capston ))  
+ 안드로이드 빌드입니다.
